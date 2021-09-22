@@ -23,21 +23,25 @@ This event is a super popular event throughout the Zero To Mastery community, wi
 
 Your favourite annual creative challenge for Hacktoberfest is here! We will once again be showcasing the creative talents of our ZTM students, this time using the HTML <canvas> element.
 
-#### PROJECT BRIEF
+#### PROJECT INTRODUCTION
 
 > Using HTML, CSS and vanilla JavaScript, your mission is to create a work of art with the `<canvas>` element. It can be as simple or elaborate as you like, however please ensure that the code is your own, and not copied from other sources.
 
 [Project Repo/Instructions](https://github.com/zero-to-mastery/canvas-creations)
 
-#### [![KEIKO CORP](https://img.shields.io/badge/HTML%20PROJECT-KEIKO%20CORP-critical?style=for-the-badge&logo=HTML5)](https://github.com/zero-to-mastery/Keiko-Corp)
+#### [![](https://img.shields.io/badge/Html%20%26%20Javascript%20%26%20CSS%20PROJECT%20Powered%20by%20StencilJS-WebBlocks-00adb5?style=for-the-badge&logo=JavaScript)](https://github.com/zero-to-mastery/WebBlocks)
 
-Welcome to this years HTML challenge for Hacktoberfest, a project with beginners and aspiring developers in mind, utilizing HTML, CSS & maybe a dash of JavaScript to achieve a simplistic yet elegant website for the greatest start up of all time; Keiko Corp.
+Welcome to this years HTML challenge for Hacktoberfest, a project with beginners and aspiring developers in mind, utilizing HTML, CSS & maybe a dash of JavaScript to create a component library showcase.
 
-##### PROJECT BRIEF
+##### PROJECT INTRODUCTION
 
-> Bruno has put together a quick Froala mockup to demonstrate the layout and simplistic design they are looking for. Although Bruno did request the website be as immaculate and as impressive as his hair, the design is totally open to interpretation and modification during the first iteration of development.
+> There is a big hype about front-end frameworks all over the place. But what if we could build components without the need to reach out for big players like React,Vue and Angular?
+>
+> Turns out, this is a totally possible thing to do and it is quite easy using StencilJs, not only that we can build components which we can use in vanilla HTML, JS and CSS projects, but also creating components which we can also reuse with frameworks like React, Vue and Angular.
+>
+> So the goal of this project is to exactly showcase that
 
-[Project Repo/Instructions](https://github.com/zero-to-mastery/keiko-corp)
+[Project Repo/Instructions](https://github.com/zero-to-mastery/WebBlocks)
 
 #### [![ASCII ART](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/ascii-art)
 
@@ -45,7 +49,7 @@ Welcome to this years Python challenge for Hacktoberfest, A project with beginne
 
 ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters.
 
-##### PROJECT BRIEF
+##### PROJECT INTRODUCTION
 
 > Let's see how we can evolve the ASCII generator with our ZTM community help!! Maybe we want to display this on an HTML web page where users can submit images and we convert it to ASCII art? Maybe we want to improve how the Command Line Tool works/make it more customizeable? Or maybe modify the script to do many other types of art beyond ASCII.
 
