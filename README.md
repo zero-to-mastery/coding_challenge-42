@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/743608750635483297/888519515942555668/hf21.png" align="right" />
+<img src="https://cdn.discordapp.com/attachments/890623141792075897/890971979883102208/logo-hf-icon.6b4a329_1_1.png" align="right" />
 
 # What is Hacktoberfest?
 
@@ -19,7 +19,7 @@ This event is a super popular event throughout the Zero To Mastery community, wi
 
 **Following their success, we are excited to announce 3 brand new projects for this year's Hacktoberfest:**
 
-#### [![Canvas Creations](https://img.shields.io/badge/CSS%20PROJECT-Canvas%20Creations-yellow?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/Canvas-Creations)
+#### [![Canvaz](https://img.shields.io/badge/CREATIVE%20CSS%20PROJECT-Canvaz-4E3188?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/Canvaz)
 
 Your favourite annual creative challenge for Hacktoberfest is here! We will once again be showcasing the creative talents of our ZTM students, this time using the HTML <canvas> element.
 
@@ -27,7 +27,7 @@ Your favourite annual creative challenge for Hacktoberfest is here! We will once
 
 > Using HTML, CSS and vanilla JavaScript, your mission is to create a work of art with the `<canvas>` element. It can be as simple or elaborate as you like, however please ensure that the code is your own, and not copied from other sources.
 
-[Project Repo/Instructions](https://github.com/zero-to-mastery/canvas-creations)
+[Project Repo/Instructions](https://github.com/zero-to-mastery/canvaz)
 
 #### [![](https://img.shields.io/badge/Html%20%26%20Javascript%20%26%20CSS%20PROJECT%20Powered%20by%20StencilJS-WebBlocks-00adb5?style=for-the-badge&logo=JavaScript)](https://github.com/zero-to-mastery/WebBlocks)
 
@@ -43,7 +43,7 @@ Welcome to this years HTML challenge for Hacktoberfest, a project with beginners
 
 [Project Repo/Instructions](https://github.com/zero-to-mastery/WebBlocks)
 
-#### [![ASCII ART](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/ascii-art)
+#### [![ASCII ART](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/ascii-art-2021)
 
 Welcome to this years Python challenge for Hacktoberfest, A project with beginners and aspiring developers in mind, utilizing Python to convert images into ASCII Art.
 
@@ -55,7 +55,7 @@ ASCII art is a graphic design technique that uses computers for presentation and
 
 The options are endless and there is no wrong answer. This is all for fun, so try to customize the tool whichever way you think would be best and let's see what we get at the end of the month! Enjoy!
 
-[Project Repo/Instructions](https://github.com/zero-to-mastery/ascii-art)
+[Project Repo/Instructions](https://github.com/zero-to-mastery/ascii-art-2021)
 
 # But how do I make a pull request/participate?
 
