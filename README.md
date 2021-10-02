@@ -10,7 +10,7 @@ Hacktoberfest 2021 returns to ZTM with three brand new projects for you to compl
 - Make 4 **quality** pull requests to any participating public repository during the month of October!
 - Have fun
 
-This year, the first 55,000 participants who successfully complete the challenge will entitled to a free limited edition T-shirt!
+This year, the first 55,000 participants who successfully complete the challenge will be entitled to a free limited edition T-shirt!
 You can find out more details about Hacktoberfest on their website, as well as track your progress throughout the month.
 
 # Zero To Mastery Hacktoberfest Projects
