@@ -4,7 +4,7 @@
 
 Every October, Digital Ocean runs Hacktoberfest, a month-long celebration of open-sourced software. Encouraging developers at all stages in their careers to participate in the open-source community. The event is open to everyone in the global community, no matter your skill level or background and it grows in size every year.
 
-Hacktoberfest 2021 returns to ZTM with three brand new projects for you to complete the challenge and **earn a limited edition T-shirt!** All you have to do to take part is:
+Hacktoberfest returns to ZTM with three brand new projects for you to complete the challenge and **earn a limited edition T-shirt!** All you have to do to take part is:
 
 - Sign up on the [Official Hacktoberfest Website](https://hacktoberfest.digitalocean.com/)
 - Make 4 **quality** pull requests to any participating public repository during the month of October!
